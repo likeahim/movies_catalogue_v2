@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf67513a-3d64-4064-ad43-71e964715980" name="Changes" comment="" />
+    <list default="true" id="cf67513a-3d64-4064-ad43-71e964715980" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/templates/homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/homepage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/templates/movie_details.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/movie_details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tests/test_tmdb.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_tmdb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tmdb_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/tmdb_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movies_catalogue" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +31,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/movies_catalogue" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -27,12 +39,12 @@
     &quot;assignee&quot;: &quot;likeahim&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://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@github.com/likeahim/movies_catalogue.git&quot;,
-    &quot;accountId&quot;: &quot;dec2fa35-ab08-48c2-bac0-2c9eeafa5a8f&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://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@github.com/likeahim/movies_catalogue_v2.git",
+    "accountId": "dec2fa35-ab08-48c2-bac0-2c9eeafa5a8f"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -71,6 +83,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/movies_catalogue" />
     </key>
   </component>
@@ -95,6 +108,7 @@
       <workItem from="1743859845989" duration="2808000" />
       <workItem from="1743936486259" duration="25000" />
       <workItem from="1744125420609" duration="18000" />
+      <workItem from="1744381079054" duration="2931000" />
     </task>
     <servers />
   </component>

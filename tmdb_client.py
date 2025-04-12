@@ -26,4 +26,4 @@ def get_single_movie(movie_id):
     return call_tmdb_api(movie_id)
 
 def get_single_movie_cast(movie_id):
-    return call_tmdb_api(f"{1}/credits")
+    return call_tmdb_api(f"{movie_id}/credits")

@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf67513a-3d64-4064-ad43-71e964715980" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/templates/homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/homepage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/templates/movie_details.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/movie_details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tests/test_tmdb.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_tmdb.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tmdb_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/tmdb_client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movies_catalogue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmdb_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/tmdb_client.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +100,7 @@
       <workItem from="1743859845989" duration="2808000" />
       <workItem from="1743936486259" duration="25000" />
       <workItem from="1744125420609" duration="18000" />
-      <workItem from="1744381079054" duration="2931000" />
+      <workItem from="1744381079054" duration="4152000" />
     </task>
     <servers />
   </component>
